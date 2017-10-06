@@ -6,7 +6,7 @@ required:
  - repo
 
 toolchain:
-  name: comptonkuber3-ddcao-06oct-1216
+  name: comptonkuber3-ddcao-06oct-1224-wrong-cluster
 
 # Github repos
 repo:
@@ -54,7 +54,7 @@ deploy:
     dev-space: "{{space}}"
     dev-organization: "{{organization}}"
     dev-region: "{{region}}"
-    kube-cluster-name: devex-playground
+    kube-cluster-name: devexpsss-playground
     api-key: "{{api-key}}"
     image-pull-secret-name: "{{image-pull-secret-name}}"
     image-registry-token: "{{image-registry-token}}"
