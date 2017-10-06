@@ -54,7 +54,7 @@ deploy:
     dev-space: "{{space}}"
     dev-organization: "{{organization}}"
     dev-region: "{{region}}"
-    kube-cluster-name: devexp_playground
+    kube-cluster-name: devexp-playground
     api-key: "{{api-key}}"
     image-pull-secret-name: "{{image-pull-secret-name}}"
     image-registry-token: "{{image-registry-token}}"

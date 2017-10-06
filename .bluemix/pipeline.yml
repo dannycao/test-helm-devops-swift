@@ -42,7 +42,7 @@ stages:
     value: build.properties
     type: file
   - name: CLUSTER_NAMESPACE
-    value: namespace_devex
+    value: default
     type: text
   - name: IMAGE_PULL_SECRET_NAME
     value: ${IMAGE_PULL_SECRET_NAME}
