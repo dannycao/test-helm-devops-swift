@@ -6,7 +6,7 @@ required:
  - repo
 
 toolchain:
-  name: comptonkuber3
+  name: comptonkuber3-ddcao-06oct-1216
 
 # Github repos
 repo:
